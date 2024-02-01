@@ -1,0 +1,5 @@
+name: bedtwLVanishFix
+version: '${project.version}'
+main: me.bedtwl.bedtwlvanishfix.Main
+author: bedtwL
+depend: [PlaceholderAPI]
