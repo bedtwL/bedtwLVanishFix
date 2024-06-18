@@ -1,2 +1,4 @@
 ### bedtwL Vanish Bug Fix
 Make for bedtwL Server, Download here: https://www.spigotmc.org/resources/bedtwl-vanish-bug-fix.114854
+
+PS: This has been removed at bedtwL Server and been replaced with bedtwLServerCore plugins
